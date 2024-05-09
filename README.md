@@ -10,10 +10,12 @@ PokeDex Web App is a React-based application that allows users to browse through
 3.Click on a Pokémon card to view detailed information about that Pokémon, including its abilities and base stats.
 
 ## Vercel Link
+
 https://flurn-assignment-bice.vercel.app/
 
 ## Screenshots
-![Screenshot 2024-05-09 171352](https://github.com/Asharma070320/Flurn_Assignment/assets/127501344/b95832eb-765d-411c-8896-9fb5f54a5b95)
+
+![Screenshot 2024-05-09 212809](https://github.com/Asharma070320/Flurn_Assignment/assets/127501344/4c4a95d8-5811-48e5-96af-2863a58616ce)
 ![Screenshot 2024-05-09 172524](https://github.com/Asharma070320/Flurn_Assignment/assets/127501344/8d10ebd9-2f80-485d-b724-b493be758a6d)
 ![Screenshot 2024-05-09 172535](https://github.com/Asharma070320/Flurn_Assignment/assets/127501344/cb60eb93-15af-4cc2-9ac2-042b34b2f5aa)
 
