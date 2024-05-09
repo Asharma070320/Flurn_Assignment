@@ -3,7 +3,7 @@ import React from "react";
 const Card = ({ pokemon, loading, infoPokemon }) => {
     console.log(pokemon);
 
-    // Filter out unique Pokémon based on their names
+    
     const uniquePokemon = pokemon.filter((item, index, self) =>
         index === self.findIndex((t) => t.name === item.name)
     );
